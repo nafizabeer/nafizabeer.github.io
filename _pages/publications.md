@@ -3,6 +3,7 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
+excerpt: "Publications by A N M Nafiz Abeer in machine learning, molecular design, and protein modeling."
 ---
 
 {% if author.googlescholar %}

@@ -3,6 +3,7 @@ layout: archive
 title: "Experience"
 permalink: /experience/
 author_profile: true
+excerpt: "Professional experience of A N M Nafiz Abeer in research, data science, and teaching."
 ---
 
 {% include base_path %}
